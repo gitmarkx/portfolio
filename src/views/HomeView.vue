@@ -1,4 +1,5 @@
 <script setup>
+// import AboutMe from '@/components/home/AboutMe.vue';
 import MainVisual from '@/components/home/MainVisual.vue';
 </script>
 
@@ -7,3 +8,4 @@ import MainVisual from '@/components/home/MainVisual.vue';
     <MainVisual />
   </main>
 </template>
+

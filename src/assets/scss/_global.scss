@@ -1,0 +1,12 @@
+body {
+    // @include body-font;
+    padding-top: 54px;
+    color: #868e96;
+}
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 0;
+        padding-left: $sidebar-base-width;
+    }
+}
