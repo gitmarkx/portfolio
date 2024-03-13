@@ -36,6 +36,9 @@ import IconLinkedIn from '../icons/IconLinkedIn.vue';
 </template>
 
 <style scoped>
+h1{
+  margin-left: -5px;
+}
 ul{
   list-style: none;
   margin: 0;
