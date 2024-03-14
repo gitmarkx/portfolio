@@ -1,0 +1,34 @@
+body {
+    // @include body-font;
+    padding-top: 54px;
+    color: #868e96;
+}
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 0;
+        padding-left: $sidebar-base-width;
+    }
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+//   @include heading-font;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #343a40 ;
+}
+
+h1 {
+  font-size: 6rem;
+  line-height: 5.5rem;
+}
+
+h2 {
+  font-size: 3.5rem;
+}
