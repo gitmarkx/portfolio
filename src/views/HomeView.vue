@@ -1,12 +1,12 @@
 <script setup>
 import MainVisual from '@/components/home/MainVisual.vue';
-import SkillSection from '@/components/home/Skill-Section.vue';
+import ExperienceSection from '@/components/home/ExperienceSection.vue';
 </script>
 
 <template>
   <main>
     <MainVisual />
-    <SkillSection />
+    <ExperienceSection />
   </main>
 </template>
 

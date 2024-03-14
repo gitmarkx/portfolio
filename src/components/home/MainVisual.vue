@@ -13,12 +13,11 @@ import IconLinkedIn from '../icons/IconLinkedIn.vue';
       <div class="subheading mb-5">Cebu City, Philippines ·
         <a href="mailto:name@email.com">markarielmaata@gmail.com</a>
       </div>
-      <p class="mb-5">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
-        the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-        scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into
-        electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of
-        Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus
-        PageMaker including versions of Lorem Ipsum.</p>
+      <p class="mb-5">I am a web developer with a strong focus on front-end
+        development, and I am currently expanding into backend
+        development. I have experience in effective team leadership,
+        fostering collaboration, and delivering projects on time and to client
+        satisfaction. </p>
       <ul class="">
         <li class="">
           <a href="#">
@@ -36,17 +35,18 @@ import IconLinkedIn from '../icons/IconLinkedIn.vue';
 </template>
 
 <style scoped>
-h1{
+h1 {
   margin-left: -5px;
 }
-ul{
+
+ul {
   list-style: none;
   margin: 0;
   padding: 0;
   display: flex;
 }
 
-ul a{
+ul a {
   display: block;
   padding: .8rem;
   background-color: #495057;
@@ -54,13 +54,16 @@ ul a{
   overflow: hidden;
   transition: .3s ease-in-out;
 }
-ul a:hover{
+
+ul a:hover {
   background-color: #0d6efd;
 }
-ul li:not(:last-child){
+
+ul li:not(:last-child) {
   margin-right: 10px;
 }
-a svg{
+
+a svg {
   width: 1.5rem;
   fill: #fff;
 }
