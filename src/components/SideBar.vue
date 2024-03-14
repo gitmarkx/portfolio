@@ -13,13 +13,13 @@
         <div class="collapse navbar-collapse" id="collapsibleNavbar">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Experience</a>
+                    <a class="nav-link" href="#experience">Experience</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Skills</a>
+                    <a class="nav-link" href="#skills">Skills</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Projects</a>
+                    <a class="nav-link" href="#projects">Projects</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Contact</a>
