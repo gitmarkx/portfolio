@@ -7,7 +7,7 @@ import IconLinkedIn from '../icons/IconLinkedIn.vue';
 <template>
   <section class="resume-section  p-3 p-lg-5 d-flex d-column">
     <div class="my-auto">
-      <h1 class="mb-0"> <span class="text-primary">Mark</span>
+      <h1 class="mb-3"> <span class="text-primary">Mark</span>
         Maata
       </h1>
       <div class="subheading mb-5">Cebu City, Philippines ·
@@ -20,12 +20,12 @@ import IconLinkedIn from '../icons/IconLinkedIn.vue';
         satisfaction. </p>
       <ul class="">
         <li class="">
-          <a href="#">
+          <a href="https://github.com/gitmarkx" target="_blank">
             <IconGithub />
           </a>
         </li>
         <li class="">
-          <a href="#">
+          <a href="https://www.linkedin.com/in/mark-ariel-maata-32a404207/" target="_blank">
             <IconLinkedIn />
           </a>
         </li>

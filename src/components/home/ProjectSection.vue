@@ -4,7 +4,7 @@ import { projectList } from '@/data/projectList';
 
 </script>
 <template>
-    <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="skills">
+    <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="projects">
         <div class="my-auto">
             <h2 class="mb-5 text-primary">Projects</h2>
 
