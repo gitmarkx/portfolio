@@ -1,9 +1,12 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+import MainVisual from '@/components/home/MainVisual.vue';
+import SkillSection from '@/components/home/Skill-Section.vue';
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <MainVisual />
+    <SkillSection />
   </main>
 </template>
+
