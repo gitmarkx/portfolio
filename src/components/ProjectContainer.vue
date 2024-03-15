@@ -21,4 +21,4 @@ export default{
             :title="title"
         />
     </div>
-</template>../ProjectItem.vue
+</template>
