@@ -10,7 +10,7 @@ export default{
 <template>
     <div class="project-container">
         <a :href="link" target="_blank">
-            <img class="project-image" :src="image" :alt="title">
+            <img class="project-image" :src="`./images/projects/${image}`" :alt="title">
             <div class="project-title">
                 {{ title }}
             </div>
